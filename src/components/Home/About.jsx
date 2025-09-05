@@ -74,14 +74,13 @@ const FE = [
   { name: "Bootstrap", value: 85 },
 ];
 
-const projects = [
-  { image: "/images/nutritiongeeks.png", title: "NUTRITIONGEEKS", category: "Ecommerce", link: 'https://www.nutritiongeeks.co' },
-  { image: "/images/healthyhey.png", title: "HEALTHYHEY", category: "Healthcare website", link: 'https://healthyhey.com'},
-  { image: "/images/teachable.png", title: "TEACHABLE", category: "Educational", link: 'https://teachable.com'},
-  { image: "/images/intermiles.png", title: "INTERMILES", category: "Room and flight Booking", link: 'https://www.intermiles.com'},
-  { image: "/images/alison.png", title: "ALISON", category: "E-learning", link: 'https://alison.com'},
-];
-
+  const projects = [
+    { image: "/images/srichaitanyascore.png", title: "Sri Chaitanya SCORE 2025", category: "EdTech / Online Examination", link: 'https://srichaitanyascore.com' },
+    { image: "/images/floweraura.png", title: "FlowerAura", category: "E-Commerce", link: 'https://www.floweraura.com' },
+    { image: "/images/vaishnaviinterioir.png", title: "Vaishnavi Interiors", category: "Interior Design & Home Décor", link: 'https://www.vaishnaviinteriors.in' },
+    { image: "/images/elysium.png", title: "Reliance Elysium", category: "Real Estate", link: 'https://relianceelysium.keyonprop.com' },
+    { image: "/images/homelane.png", title: "HomeLane", category: "Interior Design & Home Décor", link: 'https://www.homelane.com' },
+  ];
 
 export const About = () => {
   return (
