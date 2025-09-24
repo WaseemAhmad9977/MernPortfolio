@@ -8,6 +8,7 @@ const Portfolio = () => {
     { image: "/images/vaishnaviinterioir.png", title: "Vaishnavi Interiors", category: "Interior Design & Home Décor", link: 'https://www.vaishnaviinteriors.in' },
     { image: "/images/elysium.png", title: "Reliance Elysium", category: "Real Estate", link: 'https://relianceelysium.keyonprop.com' },
     { image: "/images/homelane.png", title: "HomeLane", category: "Interior Design & Home Décor", link: 'https://www.homelane.com' },
+     { image: "/images/payrentz.png", title: "PayRentz", category: "E-commerce / Online Rental Platform", link: 'https://www.payrentz.com' },
   ];
 
 
